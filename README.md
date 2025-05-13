@@ -19,10 +19,10 @@ This comprehensive data analysis project delves into the Airbnb market in New Yo
   standardized.
 - Exploratory Data Analysis (EDA): The dataset was explored using pandas, matplotlib, and seaborn to uncover patterns, correlations, and outliers. This involved 
   analyzing:
-          - The distribution of listings by neighborhood, room type, and price.
-          - Popular amenities and their impact on price.
-          - Top-rated hosts and their strategies.
-          - Seasonal trends in bookings and pricing.
+    - The distribution of listings by neighborhood, room type, and price.
+    - Popular amenities and their impact on price.
+    - Top-rated hosts and their strategies.
+    - Seasonal trends in bookings and pricing.
 
 The following Python libraries are used for the EDA:
 
