@@ -5,7 +5,7 @@ This comprehensive data analysis project delves into the Airbnb market in New Yo
 
 Objectives:
 
-Understand the distribution of Airbnb listings based on their location, price range, room type, and other related factors.
+. Understand the distribution of Airbnb listings based on their location, price range, room type, and other related factors.
 Identify popular neighborhoods and types of Airbnb listings.
 Analyze the relationship between Airbnb prices and occupancy rates.
 Identify seasonal trends in Airbnb bookings.
@@ -29,10 +29,6 @@ numpy: for numerical computing
 matplotlib: for data visualization
 
 seaborn: for statistical data visualization
-
-Tableau Dashboard Link:
-
-https://public.tableau.com/views/AirBnbBookingsAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 Key Findings:
 
