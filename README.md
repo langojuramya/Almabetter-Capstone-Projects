@@ -6,12 +6,12 @@ This comprehensive data analysis project delves into the Airbnb market in New Yo
 Objectives:
 
 - Understand the distribution of Airbnb listings based on their location, price range, room type, and other related factors.
-Identify popular neighborhoods and types of Airbnb listings.
-Analyze the relationship between Airbnb prices and occupancy rates.
-Identify seasonal trends in Airbnb bookings.
-Craft a visually appealing and insightful tableau dashboard.
-Generate insights that can be used to improve the Airbnb experience for both hosts and guests.
-Methodology:
+- Identify popular neighborhoods and types of Airbnb listings.
+- Analyze the relationship between Airbnb prices and occupancy rates.
+- Identify seasonal trends in Airbnb bookings.
+- Craft a visually appealing and insightful tableau dashboard.
+- Generate insights that can be used to improve the Airbnb experience for both hosts and guests.
+  ## Methodology:
 
 Data Collection and Cleaning: The dataset, was cleaned and prepared in Python using pandas and numpy. Missing values were handled, and data types were standardized.
 Exploratory Data Analysis (EDA): The dataset was explored using pandas, matplotlib, and seaborn to uncover patterns, correlations, and outliers. This involved analyzing:
