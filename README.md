@@ -1,4 +1,5 @@
-# Almabetter-Capstone-Projects
+# AirBnb Booking Analysis-EDA
+![image](https://github.com/user-attachments/assets/71a3c4f1-3771-4886-aed5-94008e078305)
 
 **Description:**
 
